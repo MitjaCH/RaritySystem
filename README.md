@@ -80,6 +80,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 - Inspired by loot box systems in games.
+- [Application Icon](https://www.flaticon.com/free-icons/dice)
 
 ---
 

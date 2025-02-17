@@ -4,7 +4,7 @@ A C# console application that simulates a rarity system with customizable probab
 
 ## Features
 - **Manual Roll:** Press any key to roll once.
-- - **Statistics Tracking:** Displays the number of times each rarity has been obtained, along with the percentage.
+- **Statistics Tracking:** Displays the number of times each rarity has been obtained, along with the percentage.
 
 ## Rarity Table
 
